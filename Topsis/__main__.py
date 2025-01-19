@@ -71,8 +71,8 @@ def main():
     data['Rank'] = data['Topsis Score'].rank(ascending=False, method='dense')
 
     data.to_csv(result_file, index=False)
-    print("Topsis Implementation by Prarthana Samal")
-    print("Roll Number: 102383015")
+    print("Topsis Implementation by Naman Kumar")
+    print("Roll Number: 102203421")
     print(f"Results have been saved to: {result_file}")
 
 if __name__ == "__main__":

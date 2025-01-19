@@ -1,0 +1,8 @@
+README.md
+setup.py
+Topsis_Naman_kumar_102203421.egg-info/PKG-INFO
+Topsis_Naman_kumar_102203421.egg-info/SOURCES.txt
+Topsis_Naman_kumar_102203421.egg-info/dependency_links.txt
+Topsis_Naman_kumar_102203421.egg-info/entry_points.txt
+Topsis_Naman_kumar_102203421.egg-info/requires.txt
+Topsis_Naman_kumar_102203421.egg-info/top_level.txt
